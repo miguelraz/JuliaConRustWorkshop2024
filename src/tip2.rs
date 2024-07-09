@@ -12,10 +12,10 @@ mod tip2 {
         let some_n = Some(15);
         let n = 16;
     
-        (n % 3, n % 5)
+        (n % 3, n % 5);
 
-        color
+        color;
             
-        some_n
+        some_n;
     }
 }

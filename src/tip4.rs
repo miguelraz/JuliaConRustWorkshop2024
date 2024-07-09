@@ -1,5 +1,6 @@
 mod tip4 {
 // Tip 4: JSON pasting into a struct
+/*
 {
     "ISBN": 9781098119447,
     "title": "Rust Atomics and Locks",
@@ -8,7 +9,7 @@ mod tip4 {
         "name": "Mara Bos"
     }
 }
-
+*/
 }
 
 

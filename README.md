@@ -12,7 +12,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 ```
 cargo install cargo-binstall
 ```
-
+* [Ownership Experiment](https://ferroussystems.hackmd.io/D7tu4b2LQn2xkBVtAbiZ_Q)
 ## Part 2: Rust Dev Flow
 * Our learning materials are [HERE](https://rust-training.ferrous-systems.com/latest/slides/)
 * Devflow tips are under `tipsX.rs` and `devflow.rs`
@@ -20,4 +20,6 @@ cargo install cargo-binstall
 
 ## Part 3: Type Safety and FFI
 * Type safety demos are at `type-safety.jl`
-* FFI examples are in `ffi-examples.jl`
+    - no string typing!
+    - type state
+    - unit type
